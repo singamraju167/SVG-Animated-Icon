@@ -26,6 +26,10 @@ body {
     transform-box: fill-box;
 }
 
+svg {
+    width: 60vw;
+}
+
 @keyframes wheel {
     from {
         transform: rotateZ(0deg);
